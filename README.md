@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao Meu Perfil! 👾
+## Welcome To My Profile! 👾
 
  <div>
    <a href="https://github.com/daniel-cybis">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Para entrar em contato me siga nas redes abaixo!
+  ### To get in touch, follow me on the networks below!
  
 <div> 
   <a href="https://www.instagram.com/danielcybis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
